@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Snowflake</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=15B601&vCenter=true&random=true&width=435&lines=print(%22Hello%22);printf(%22Bonjour%22);System.out.println(%22Guten+Tag%22);echo(%22%E4%BD%A0%E5%A5%BD%22)" alt="Typing SVG" /></a>
+
 <h3 align="center">I am both front-end and back-end constructor</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -14,9 +14,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,html,bootstrap,linux,stackoverflow,raspberrypi,vscode" />
   </a>
 </p>
+<a href="https://git.io/typing-svg" align="right><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=15B601&center=true&random=true&width=435&lines=print(%22Hello%22);printf(%22Bonjour%22);System.out.println(%22Guten+Tag%22);echo(%22%E4%BD%A0%E5%A5%BD%22)" alt="Typing SVG" /></a>
