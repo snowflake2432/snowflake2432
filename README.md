@@ -12,9 +12,9 @@
 <a href="https://www.github.com/snowflake2432" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="snowflake" height="70" width="70" /></a>
 </p>
 
-<h3 align="middle">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,html,bootstrap,linux,stackoverflow,raspberrypi,vscode" />
   </a>
