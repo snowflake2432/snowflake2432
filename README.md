@@ -6,11 +6,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-<p align ="right">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=15B601&multiline=true&random=true&width=435&lines=print(%22Hello%22);printf(%22Bonjour%22);System.out.println(%22Guten+Tag%22);echo(%22%E4%BD%A0%E5%A5%BD%22)" alt="Typing SVG" /></a>
-</p>
 
 <h3 align="left">Connect with me:</h3>
+<p align ="right">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=15B601&random=true&width=435&lines=print(%22Hello%22);printf(%22Bonjour%22);System.out.println(%22Guten+Tag%22);echo(%22%E4%BD%A0%E5%A5%BD%22)" alt="Typing SVG" /></a>
+</p>
 <p align="left">
 <a href="https://www.leetcode.com/yunxi72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yunxi72" height="50" width="50" /></a>
 <a href="https://www.github.com/snowflake2432" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="snowflake" height="50" width="50" /></a>
