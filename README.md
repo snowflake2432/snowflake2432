@@ -4,3 +4,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
+[![My Skills](https://skillicons.dev/icons?i=python,html)](https://skillicons.dev)
