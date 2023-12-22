@@ -15,4 +15,9 @@ github
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=py,html,bootstrap,linux,stackoverflow,raspberrypi,vscode)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,html,bootstrap,linux,stackoverflow,raspberrypi,vscode" />
+  </a>
+</p>
