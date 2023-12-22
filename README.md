@@ -17,7 +17,5 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,html,bootstrap,linux,stackoverflow,raspberrypi,vscode" />
   </a>
-  <p align="right">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?    font=Fira+Code&duration=3000&pause=1000&color=15B601&center=true&random=true&width=435&lines=print(%22Hello%22);printf(%22Bonjour%22);System.out.println(%22Guten+Tag%22);echo(%22%E4%BD%A0%  E5%A5%BD%22)" alt="Typing SVG" /></a>
-  </p>
 </p>
