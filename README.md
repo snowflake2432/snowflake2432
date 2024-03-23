@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Snowflake</h1>
+<h1 align="center">Hello World</h1>
 
-<h3 align="center">I am both front-end and back-end constructor</h3>
+<h3 align="center">"墙角数枝梅，凌寒独自开。
+遥知不是雪，为有暗香来。"</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
